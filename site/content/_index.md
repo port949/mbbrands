@@ -1,20 +1,32 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: We Help eCommerce Companies Sell More Products Online
+subtitle: Could you be our next success story?
+image: /img/office_architecture_background.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Why Choose Us?
+  text: >-
+    Master Builder Brands is a digital marketing agency that works with growing
+    eCommerce companies around the world. We’ve helped our clients deliver
+    premium quality content to millions of visitors each year and increase
+    sales.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: ''
+  text: ''
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/downtown_buildings.jpg
+    text: >-
+      Master Builder Brands is an innovative digital marketing agency. See what
+      we’re building next.
+  - image: /img/forklift_warehouse.jpg
+    text: >-
+      We help growing eCommerce companies sell more products without spending a
+      fortune on marketing strategies that don’t work.
+  - image: /img/careers_jobs.jpg
+    text: >-
+      Our team moves fast and tackles new challenges everyday. We are always
+      looking for top talent to join our growing company.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: ''
+  text: ''
 ---
 
