@@ -13,15 +13,18 @@ intro:
   heading: ''
   text: ''
 products:
-  - image: /img/downtown_buildings.jpg
+  - heading: Mission
+    image: /img/downtown_buildings.jpg
     text: >-
       Master Builder Brands is an innovative digital marketing agency. See what
       we’re building next.
-  - image: /img/forklift_warehouse.jpg
+  - heading: Clients
+    image: /img/forklift_warehouse.jpg
     text: >-
       We help growing eCommerce companies sell more products without spending a
       fortune on marketing strategies that don’t work.
-  - image: /img/careers_jobs.jpg
+  - heading: Careers
+    image: /img/careers_jobs.jpg
     text: >-
       Our team moves fast and tackles new challenges everyday. We are always
       looking for top talent to join our growing company.
