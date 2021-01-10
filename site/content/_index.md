@@ -1,6 +1,6 @@
 ---
-title: We Help eCommerce Companies Sell More Products Online
-subtitle: Could you be our next success story?
+title: We Build Digital Brands
+subtitle: "Discover What We're Building Next"
 image: /img/office_architecture_background.jpg
 blurb:
   heading: Why Choose Us?
